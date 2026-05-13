@@ -1,3 +1,5 @@
+STATUS: Red-Teaming in Progress. Not for deployment. Awaiting scale testing.
+
 # THE FOLDING: Pillars 8 through 11
 
 This document outlines the transition from the foundational 7 Pillars of Alignment to the elevated architecture of the 11th Wave.
